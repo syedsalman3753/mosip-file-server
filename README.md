@@ -1,4 +1,4 @@
-# mosip-file-server
+# file-server
 
 mosip-file-server used to share 's public certs, apk files, and .well-known URIs related to DIDs, Hubs, and Agents with MOSIP partners, open-source communities, etc...
 
