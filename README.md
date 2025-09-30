@@ -1,6 +1,5 @@
 # mosip-file-server
 
-
 mosip-file-server used to share MOSIP's public certs, apk files, and .well-known URIs related to DIDs, Hubs, and Agents with MOSIP partners, open-source communities, etc...
 
 ## .well-known
